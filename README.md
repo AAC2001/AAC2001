@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://aac2001.github.io/Portfolio/](https://aac2001.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://aac2001.github.io/AAC_portfolio/](https://aac2001.github.io/AAC_portfolio/)
 
 - 📫 How to reach me **anil.athukuri123@gmail.com**
 
