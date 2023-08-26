@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aac2001.github.io/AAC_portfolio/](https://aac2001.github.io/AAC_portfolio/)
 
-- 📫 How to reach me **anil.athukuri123@gmail.com**
+- 📫 How to reach me **anil.athukuri1108@gmail.com**
 
 - ⚡ Fun fact **I am funny 😅**
 
